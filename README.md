@@ -148,6 +148,3 @@ Deployed on Streamlit Community Cloud. A few environment-specific fixes were req
 - "Help" gesture requires both hands visible in frame simultaneously
 - Free-tier cloud hosting may sleep after inactivity — first load after idle time can be slow
 
-## License
-
-*(Add your preferred license here — e.g., MIT)*
